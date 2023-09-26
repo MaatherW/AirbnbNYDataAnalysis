@@ -47,7 +47,7 @@ The dataset includes four files:
 -   Booked Listings VS Median Price Map
 -   Location Popularity VS Seasonality
 -   Neighborhoods Ranking by Occupancy Rate
--   Neighborhoods Growth since
+-   Neighborhoods Growth since 2017
 
 ### Insights and Recommendations
 
