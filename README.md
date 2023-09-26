@@ -55,5 +55,5 @@ The dataset includes four files:
 2.  Second map shows that the highest % of booked listings are located in Manhattan. And Manhattan has the highest median price. Brooklyn comes in second.
 3.  Manhattan ranks first in high booking demand based on the Calendar dataset, uninfluenced by seasonality, Brooklyn comes in second.
 4.  Ranking of occupancy rate on neighborhoods levels shows that the top 3 neighborhoods are rather located in Brooklyn.
-5.  Top 3 popular locations/neighborhoods: Williamsburg, Bedford-Stuyvesant and Harlem.
+5.  Top 3 popular locations/neighborhoods: Williamsburg, Bushwick and Bedford-Stuyvesant.
 6.  Top 3 growing locations/neighborhoods: Bedford-Stuyvesant, Williamsburg, and Harlem.
