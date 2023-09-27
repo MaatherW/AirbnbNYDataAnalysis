@@ -1,7 +1,6 @@
 # Airbnb: New York Data Analysis
 
-This analysis is for potential investors who are considering investing in short-term rental properties in New York City, New York, United States.
-
+This analysis is intended for prospective investors evaluating short-term rental property investments in New York City, New York, United States. It employs advanced analytical tools, such as Python and Tableau, to generate insights and offer recommendations through visualizations.
 
 The shared Tableau book link can be accessed [here](https://public.tableau.com/app/profile/ma.ather.waleed/viz/NYAirbnbAnalysis_16930432859280/LocationPopularityBookedListingsDistribution).
 
