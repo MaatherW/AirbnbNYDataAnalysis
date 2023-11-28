@@ -2,7 +2,7 @@
 
 This analysis is intended for prospective investors evaluating short-term rental property investments in New York City, New York, United States. It employs advanced analytical tools, such as Python and Tableau, to generate insights and offer recommendations through visualizations.
 
-The shared Tableau book link can be accessed [here](https://public.tableau.com/app/profile/ma.ather.waleed/viz/NYAirbnbAnalysis_16930432859280/LocationPopularityBookedListingsDistribution).
+The shared Tableau book link can be accessed [here](https://public.tableau.com/app/profile/ma.ather.waleed/viz/NewYorkAirbnbDashboard_17007491637110/Main?publish=yes).
 
 ## Data Loading And Overview (Python)
 
@@ -22,7 +22,7 @@ The dataset includes four files:
 
 ![Map based on Longitude and Latitude. Color shows median of Price (Calendar.Csv). The marks are labeled by Counties and % of total booked listings. The data is filtered on Available, which keeps False (booked listings).](https://i.imgur.com/07bXXEm.png)
 
-## Process [(Tableau)](https://public.tableau.com/app/profile/ma.ather.waleed/viz/NYAirbnbAnalysis_16930432859280/LocationPopularityBookedListingsDistribution)
+## Process [(Tableau)](https://public.tableau.com/app/profile/ma.ather.waleed/viz/NewYorkAirbnbDashboard_17007491637110/Main?publish=yes)
 
 
 ### EDA, Data Cleaning & Filtering
